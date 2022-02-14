@@ -1,0 +1,150 @@
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\obj\x86\Debug\Alien Annihilator.exe
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\obj\x86\Debug\Alien Annihilator.pdb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Alien Annihilator.exe
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Alien Annihilator.pdb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.dll
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.xml
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Asteroid 1.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Asteroid 2.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background (Desert).xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background (Jungle).xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background (Mountain).xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background 3.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Blast Attack Game.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Explosion of enemy.wma
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Explosion of enemy.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Fire.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Background 2.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Background.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Menu.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Over.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Loading Menu.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Main spaceship sprite.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Objectives Menu.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Pause Menu.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Player Ship 2.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Player Ship.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Player.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\scoreFontDescription.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Shoot.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Alien Annihilator.exe
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Alien Annihilator.pdb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.dll
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.xml
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\obj\x86\Debug\Alien Annihilator.exe
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\obj\x86\Debug\Alien Annihilator.pdb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background (Desert Level 1).xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background sound.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Completed Level 1 Menu.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Completed Level 3 Menu.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background 4.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background 5.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Player Ship 3.xnb
+E:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\obj\x86\Debug\Alien Annihilator.csprojResolveAssemblyReference.cache
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\obj\x86\Debug\Alien Annihilator.csprojResolveAssemblyReference.cache
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Asteroid 1.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Asteroid 2.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background 3.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background 4.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background 5.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background sound.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Explosion of enemy.wma
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Explosion of enemy.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Fire.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Background 2.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Background.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Menu.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Over.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Loading Menu.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Main spaceship sprite.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Objectives Menu.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Pause Menu.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Player Ship 2.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Player Ship 3.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Player Ship.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\scoreFontDescription.xnb
+D:\Unit 40 - Game Design\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Shoot.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\obj\x86\Debug\Alien Annihilator.csproj.AssemblyReference.cache
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\obj\x86\Debug\Alien Annihilator.csproj.CoreCompileInputs.cache
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\obj\x86\Debug\Alien Annihilator.exe
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\obj\x86\Debug\Alien Annihilator.pdb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Explosion of enemy.wma
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Explosion of enemy.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Asteroid 1.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Asteroid 2.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background 3.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background 4.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background 5.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Background sound.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Fire.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Background 2.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Background.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Menu.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Game Over.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Loading Menu.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Main spaceship sprite.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Objectives Menu.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Pause Menu.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Player Ship 2.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Player Ship 3.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Player Ship.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\scoreFontDescription.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Content\Shoot.xnb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Alien Annihilator.exe.config
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Alien Annihilator.exe
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\Alien Annihilator.pdb
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.dll
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.xml
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\dariu\Desktop\Alien Annihilator\Alien Annihilator\Alien Annihilator\obj\x86\Debug\Alien Annihilator.csproj.CopyComplete
