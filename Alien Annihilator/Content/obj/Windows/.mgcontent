@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Asteroid 1.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Asteroid 2.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Game Background 2.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Game Background.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Game Menu.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Game Over.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Loading Menu.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Main spaceship sprite.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Objectives Menu.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Player Ship.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/scoreFontDescription.spritefont</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Shoot.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Background Sound.wav</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Player Ship 3.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Player Ship 2.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Background 3.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Background 4.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Background 5.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Pause Menu.png</File>
+    <File>C:/Users/dariu/Desktop/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/Fire.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

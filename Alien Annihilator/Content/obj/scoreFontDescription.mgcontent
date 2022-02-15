@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Unit 40 - Game Design/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/scoreFontDescription.spritefont</SourceFile>
+  <SourceTime>2017-02-05T16:31:16.4667203+00:00</SourceTime>
+  <DestFile>D:/Unit 40 - Game Design/Alien Annihilator/Alien Annihilator/Alien Annihilator/Content/bin/scoreFontDescription.xnb</DestFile>
+  <DestTime>2017-05-20T13:06:28.7479666+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
