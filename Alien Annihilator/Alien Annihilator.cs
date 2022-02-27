@@ -72,7 +72,7 @@ namespace Alien_Annihilator
         // Font used to display score
         SpriteFont scoreFont;
         //Used to hold current on-screen information
-       String scoreText = "SCORE: 0";
+        String scoreText = "SCORE: 0";
         String highScoreText = "HI: 0";
 
 
@@ -140,6 +140,7 @@ namespace Alien_Annihilator
         /// </summary>
         protected override void Initialize()
         {
+            graphics.IsFullScreen = true;
             base.Initialize();
             
 
