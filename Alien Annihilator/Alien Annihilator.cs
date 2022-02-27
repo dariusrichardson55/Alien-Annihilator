@@ -129,7 +129,7 @@ namespace Alien_Annihilator
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
-          //  graphics.IsFullScreen = true;
+            graphics.IsFullScreen = true;
         }
 
         /// <summary>
@@ -140,7 +140,6 @@ namespace Alien_Annihilator
         /// </summary>
         protected override void Initialize()
         {
-            graphics.IsFullScreen = true;
             base.Initialize();
             
 
